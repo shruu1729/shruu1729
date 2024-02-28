@@ -2,57 +2,65 @@
   <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" alt="Profile Image">
 </p>
 
-# Hey there! 👋 I'm Shreya Singh Rathour, aka shruu1729
+# Hey fellow tech enthusiasts! 👋 
+I'm **Shreya Singh Rathour**, aka **shruu1729**, your guide through the captivating realms of **Machine Learning and MLOps!** 🚀
 
-Hey fellow coders! 👋 I'm Shreya Singh Rathour, your friendly neighborhood tech alchemist. My playground? The captivating realms of Machine Learning and AI! 🚀
+💡 **Nerd Alert**: I'm fueled by a passion for tech and the endless possibilities it offers. Picture a symphony of algorithms and lines of code harmonizing to the melody of innovation.
 
-💡 **Nerd Alert**: I'm not just passionate about tech; I thrive on the infinite possibilities it presents. Imagine a symphony of algorithms and lines of code dancing to the rhythm of innovation.
+🎨 **Data Artist**: Crafting data-driven solutions is my craft. With creativity as my canvas and precision as my brush, I sculpt and engineer AI marvels. Every project, a masterpiece from concept to deployment!
 
-🎨 **Digital Artisan**: Crafting digital solutions is my forte. With a canvas made of creativity and a brush of precision, I design and engineer full-stack marvels. From concept to code, every project is a masterpiece!
+🌐 **Tech Odyssey**: Currently navigating the tech cosmos as a Machine Learning Engineer and MLOps sorcerer. My toolkit includes TensorFlow, PyTorch, Kubernetes, and a dash of magic.
 
-🌐 **Tech Odyssey**: Currently navigating the tech cosmos as a full-stack sorcerer. The tools of my trade include React, Node.js, and a sprinkle of magic.
+🚀 **Shaping Tomorrow**: By day, I'm a dedicated tech wizard at an innovative AI firm, shaping the future through the magic of ML and MLOps.
 
-🚀 **Shaping Tomorrow**: By day, I'm a dedicated tech wizard at an IT firm, shaping the future through the enchantment of innovation and code.
-
-Join me on this adventure of turning imagination into lines of code! Let's innovate, create, and shape the future together. 🚀✨
+Join me on this adventure of turning data into insights and dreams into reality! Let's innovate, automate, and shape the future together. 🚀✨
 
 Keep coding and dreaming big! 💻🌟
+
 
 ![Coding GIF](https://imgs.search.brave.com/HAoXTkFPee-nBpS89F2fJvdp_eFDev5hVfnoo_F9caI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naXRo/dWIuY29tL21heWFu/a2NoYXVkaGFyeTI2/L0Nvb2wtUmVhZG1l/LWlkZWFzL3Jhdy9t/YXN0ZXIvZGF0YS9s/b2ZpLmdpZg.gif)
 
 ## About Me
 ![Profile Views](https://komarev.com/ghpvc/?username=shruu1729&label=Profile+Views&color=blue)
 
-- 🔭 Exploring the realms of Full-Stack Development.
-- 🌱 Currently mastering Spring Boot, Node.js, and React.js.
-- 💡 Constantly curious about the synergy between technology and creativity.
-- 🎓 Computer Science graduate with a knack for problem-solving and algorithms.
+---
+
+- 🌱 Currently honing skills in Machine Learning Engineering and MLOps.
+- 💡 Passionately exploring the fusion of data science and operational excellence.
+- 🎓 Computer Science graduate with a knack for problem-solving and algorithms. 
+
+---
+
 ## 🛠️ Languages and Tools
 
 Here's a glimpse into my wizardry toolkit:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/aws%20-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
-  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/express.js%20-%23404D59.svg?&style=for-the-badge" alt="Express.js">
-  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator">
-  <img src="https://img.shields.io/badge/java%20-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/mssql%20-%23CC2927.svg?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server">
-  <img src="https://img.shields.io/badge/mysql%20-%231E90FF.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/opencv%20-%233776AB.svg?&style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
-  <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/postman%20-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/scikit_learn%20-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/seaborn%20-%23408EE9.svg?&style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
-  <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+  <img src="https://img.shields.io/badge/sql%20-%23CC2927.svg?&style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/c%2B%2B%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++">
+  <img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/matplotlib%20-%23FF6F00.svg?&style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/pytorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/tensorflow%20-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/scikit_learn%20-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/opencv%20-%233776AB.svg?&style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/mlflow%20-%230052CC.svg?&style=for-the-badge&logo=mlflow&logoColor=white" alt="MLFlow">
+  <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/fastapi%20-%2300599C.svg?&style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/ci%2Fcd%20-%2343853D.svg?&style=for-the-badge&logo=circleci&logoColor=white" alt="CI/CD">
+  <img src="https://img.shields.io/badge/machine_learning%20-%23000000.svg?&style=for-the-badge&logo=machine-learning&logoColor=white" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/computer_vision%20-%233776AB.svg?&style=for-the-badge&logo=computer-vision&logoColor=white" alt="Computer Vision">
+  <img src="https://img.shields.io/badge/deep_learning%20-%23FF6F00.svg?&style=for-the-badge&logo=deep-learning&logoColor=white" alt="Deep Learning">
+  <img src="https://img.shields.io/badge/image_processing%20-%23150458.svg?&style=for-the-badge&logo=image-processing&logoColor=white" alt="Image Processing">
+  <img src="https://img.shields.io/badge/docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/aws%20-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/visual_studio_code%20-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/jupyter%20-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/pycharm%20-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
+  <img src="https://img.shields.io/badge/jenkins%20-%23D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
 </p>
 
 These are the enchantments I wield to turn ideas into reality. Let's build something magical together! 🚀🔮
