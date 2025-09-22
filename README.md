@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hey there, I’m Shreya Singh Rathour 👋</h1>
-<h3 align="center">Data Scientist (Generative AI & ML) | I build smart, scalable systems using GenAI & Machine Learning </h3>
+<h3 align="center">AI Research Engineer | I build smart, scalable systems using GenAI & Machine Learning </h3>
 
 ---
 
